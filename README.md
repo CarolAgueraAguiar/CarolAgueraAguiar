@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Carolina Aguera
 ### Estudante de Sistemas para Internet - UniAlfa, Formada em Técnico em Informática - IFPR
-#### Front-End Developer - @agenciaecode
+#### FullStack Developer- @gazintech
  <div>
   <a href="https://github.com/CarolAguera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolAguera&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
