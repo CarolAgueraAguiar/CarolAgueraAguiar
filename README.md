@@ -5,11 +5,10 @@
 - 👩‍🎓 Formada em Técnico em Informática - IFPR
 - 📌 Fique a vontade de entrar em contato: <a  target="_blank" href="https://www.linkedin.com/in/carolina-aguera">**_Linkedin_**</a>
 
-<div align="left">
-  <a href="https://github.com/CarolAguera">
-    <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=CarolAguera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="162em"src="https://github-readme-streak-stats.herokuapp.com?user=CarolAguera&theme=tokyonight&hide_border=true&locale=en" />
-    <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolAguera&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&locale=en"/>
+<div align="center" width="1000px">
+  <a href="https://github.com/CarolAguera" width="100%">
+    <img height="160em" width="490px" src="https://github-readme-stats.vercel.app/api?username=CarolAguera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" width="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolAguera&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&locale=en"/>
     </a>
 </div>
 
