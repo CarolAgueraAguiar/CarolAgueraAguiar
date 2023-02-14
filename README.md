@@ -7,8 +7,8 @@
 
 <div display="flex" flex-direction="row" width="100%">
   <a href="https://github.com/CarolAguera" width="100%" height="320rem">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarolAguera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolAguera&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&locale=en"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarolAguera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" style="width: 45%;"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolAguera&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&locale=en" style="width: 45%;"/>
     </a>
 </div>
 
