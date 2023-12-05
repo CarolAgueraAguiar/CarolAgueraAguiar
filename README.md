@@ -3,8 +3,8 @@
 <h3>Olá 👋, Meu nome é Carolina Aguera 🤙</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Sistemas para Internet** na **UniAlfa**.
-- 👩‍🎓 Formada em Técnico em Informática - IFPR
+- 🎓 Formada em **Sistemas para Internet** na **UniAlfa**.
+- 🎓 Formada em Técnico em Informática - IFPR
 - 💼 Trabalhando como **Full-Stack Web Developer com foco em Front-End**  na **[@gazin-tech](https://gazintech.com.br/)**
 
 <h3>Minhas Skills</h3>
