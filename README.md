@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=CarolAguera&color=006bed)
 
-<h3>Olá 👋, Meu nome é Carolina Aguera 🤙</h3>
+<h3>Olá 👋, Meu nome é Carolina Aguera Aguiar 🤙</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formada em **Sistemas para Internet** na **UniAlfa**.
-- 🎓 Formada em Técnico em Informática - IFPR
+- 🎓 Formada em **Técnico em Informática** - **IFPR**
 - 💼 Trabalhando como **Full-Stack Web Developer com foco em Front-End**  na **[@gazin-tech](https://gazintech.com.br/)**
 
 <h3>Minhas Skills</h3>
