@@ -5,7 +5,9 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formada em **Sistemas para Internet** na **UniAlfa**.
 - 🎓 Formada em **Técnico em Informática** - **IFPR**
-- 💼 Trabalhando como **Full-Stack Web Developer com foco em Front-End**  na **[@gazin-tech](https://gazintech.com.br/)**
+- 💼 Trabalhando como **Full-Stack Web Developer**  na **[@gazin-tech](https://gazintech.com.br/)**
+   - Atuei no E-commerce [gazin.com.br](https://www.gazin.com.br/)
+   - Atualmente estou atuando no Gazin Bank [gazin bank](https://www.gazinbank.com.br/)
 
 <h3>Minhas Skills</h3>
 
@@ -50,6 +52,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-carolinaaguera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-aguera/)](https://www.linkedin.com/in/carolina-aguera/)
+[![Linkedin](https://img.shields.io/badge/-carolinaaguera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-aguera-aguiar/)](https://www.linkedin.com/in/carolina-aguera-aguiar/)
 [![Gmail Badge](https://img.shields.io/badge/-carolaguerabr@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:carolaguerabr@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/CarolAguera?label=follow&style=social)](https://github.com/CarolAguera)
