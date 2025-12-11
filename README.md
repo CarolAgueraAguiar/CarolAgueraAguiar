@@ -4,10 +4,6 @@
   Hi there 👋🏼, <br> I'm Carol, a software developer since 2020. <br> I'm passionate about creating solutions and I'm always excited to learn new things.
 </p>
 
-- 💼 Currently working as a **Full-Stack Web Developer** at **[@gazin-tech](https://gazintech.com.br/)**
-   - Contributed to the e-commerce platform [gazin.com.br](https://www.gazin.com.br/)
-   - Currently working on [Gazin Bank](https://www.gazinbank.com.br/)
-
 <p align="left">
   💌 Feel free to reach out to me: ⤵️
 </p>
